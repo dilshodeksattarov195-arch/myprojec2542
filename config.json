@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpetch",
+        "uuid": 14336880,
+        "checksum": "vs5ms"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
